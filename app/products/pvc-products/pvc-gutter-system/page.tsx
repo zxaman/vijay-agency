@@ -11,13 +11,15 @@ export default function PVCGutterSystemPage() {
 
   // Images for PVC Gutter System
   const images = [
-    "/product_page_images/PVC-gutter-system.jpg",
+    "/new-images/pvc-products/pvc-gutter-system/1.jpg",
+    "/new-images/pvc-products/pvc-gutter-system/2.webp",
+    "/new-images/pvc-products/pvc-gutter-system/3.webp",
 
   ];
 
   return (
     <div className={styles.pageWrapper}>
-      {/* Breadcrumbs */}
+      {/* Breadcrumbs */} 
       <div className={styles.breadcrumbs}>
         <Link href="/">Home</Link> <span className={styles.crumbDivider}>/</span> 
         <Link href="/products">Products</Link> <span className={styles.crumbDivider}>/</span> 

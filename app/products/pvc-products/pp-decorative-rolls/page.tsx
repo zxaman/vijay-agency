@@ -11,8 +11,9 @@ export default function PPDecorativeRollsPage() {
 
   // Images for PP Decorative Rolls
   const images = [
-    "/product_page_images/PP-decorative-rolls.webp",
-
+    "/new-images/pvc-products/pp-decorative-rolls/1.jpg",
+    "/new-images/pvc-products/pp-decorative-rolls/2.jpg",
+    "/new-images/pvc-products/pp-decorative-rolls/3.webp"
   ];
 
   return (

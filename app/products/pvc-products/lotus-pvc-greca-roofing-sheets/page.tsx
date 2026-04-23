@@ -11,8 +11,9 @@ export default function LotusPVCGrecaPage() {
 
   // Images for Lotus PVC Greca Sheets
   const images = [
-    "/product_page_images/Lotus-PVC-greca-roofing-sheets.jpg",
- 
+    "/new-images/pvc-products/lotus-pvc-greca-roofing-sheets/1.webp",
+    "/new-images/pvc-products/lotus-pvc-greca-roofing-sheets/2.webp",
+    "/new-images/pvc-products/lotus-pvc-greca-roofing-sheets/3.webp"
   ];
 
   return (

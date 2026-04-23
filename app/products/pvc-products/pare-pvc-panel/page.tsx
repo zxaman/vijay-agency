@@ -11,8 +11,9 @@ export default function ParePVCPanelPage() {
 
   // Images for Pare PVC Wall & Ceiling Panels
   const images = [
-    "/product_page_images/Pare-PVC-panel.jpg",
-
+    "/new-images/pvc-products/pare-pvc-panel/1.jpg",
+    "/new-images/pvc-products/pare-pvc-panel/2.webp",
+    "/new-images/pvc-products/pare-pvc-panel/3.jpg"
   ];
 
   return (

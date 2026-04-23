@@ -11,8 +11,9 @@ export default function ParePVCPanelPage() {
 
   // Images for Pare PVC Panels
   const images = [
-    "/product_page_images/Acrylic-mirror-sheets.jpg",
-
+    "/new-images/pvc-products/vox-pvc-panel/1.jpeg",
+    "/new-images/pvc-products/vox-pvc-panel/2.jpg",
+    "/new-images/pvc-products/vox-pvc-panel/3.webp",
   ];
 
   return (

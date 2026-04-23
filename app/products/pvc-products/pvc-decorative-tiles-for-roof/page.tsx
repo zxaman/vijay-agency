@@ -11,7 +11,9 @@ export default function PVCDecorativeTilesPage() {
 
   // Images for PVC Decorative Tiles
   const images = [
-    "/product_page_images/PVC-decorative-tiles-for-roof.jpg",
+    "/new-images/pvc-products/pvc-decorative-tiles-for-roof/1.jpg",
+    "/new-images/pvc-products/pvc-decorative-tiles-for-roof/2.webp",
+    "/new-images/pvc-products/pvc-decorative-tiles-for-roof/3.jpg",
 
   ];
 
