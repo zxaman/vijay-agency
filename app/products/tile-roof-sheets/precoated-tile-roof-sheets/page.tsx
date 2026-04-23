@@ -11,7 +11,9 @@ export default function PrecoatedTileRoofSheetsPage() {
 
   // Images for Precoated Tile Roof Sheets
   const images = [
-    "/product_page_images/Precoated-tile-roof-sheets.webp",
+    "/new-images/Tile-Roof-Sheets/Precoated-tile-roof-sheets/1.webp",
+    "/new-images/Tile-Roof-Sheets/Precoated-tile-roof-sheets/2.jpg",
+    "/new-images/Tile-Roof-Sheets/Precoated-tile-roof-sheets/3.jpg"
 
   ];
 

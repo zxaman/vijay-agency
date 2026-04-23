@@ -11,7 +11,9 @@ export default function KalonStoneCoatedRoofPage() {
 
   // Images for Kalon Stone Coated Roof Sheets
   const images = [
-    "/product_page_images/Kalon-Stone-coated-Metal-tile-roof-sheets.webp",
+    "/new-images/Tile-Roof-Sheets/Kalon-Stone-coated-Metal-tile-roof-sheets/1.jpg",
+    "/new-images/Tile-Roof-Sheets/Kalon-Stone-coated-Metal-tile-roof-sheets/2.jpg",
+    "/new-images/Tile-Roof-Sheets/Kalon-Stone-coated-Metal-tile-roof-sheets/3.jpg"
 
   ];
 

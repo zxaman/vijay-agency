@@ -11,7 +11,9 @@ export default function OraliumAluminumTilePage() {
 
   // Images for Oralium Aluminum Tile Roof Sheets
   const images = [
-    "/product_page_images/Oralium-aluminum-tile-roof-sheets.jpg",
+    "/new-images/Tile-Roof-Sheets/Oralium-aluminum-tile-roof-sheets/1.jpg",
+    "/new-images/Tile-Roof-Sheets/Oralium-aluminum-tile-roof-sheets/2.webp",
+    "/new-images/Tile-Roof-Sheets/Oralium-aluminum-tile-roof-sheets/3.webp"
 
   ];
 

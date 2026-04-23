@@ -11,7 +11,9 @@ export default function UPVCTileRoofSheetsPage() {
 
   // Images for UPVC Tile Roof Sheets
   const images = [
-    "/product_page_images/UPVC-ile-roof-sheets.jpg",
+    "/new-images/Tile-Roof-Sheets/UPVC-tile-roof-sheets/1.jpg",
+    "/new-images/Tile-Roof-Sheets/UPVC-tile-roof-sheets/2.jpg",
+    "/new-images/Tile-Roof-Sheets/UPVC-tile-roof-sheets/3.jpg"
 
   ];
 

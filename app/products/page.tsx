@@ -224,27 +224,27 @@ const productCategories = [
       {
         name: "Precoated tile roof sheets",
         href: "/products/tile-roof-sheets/precoated-tile-roof-sheets",
-        img: "/product_page_images/Precoated-tile-roof-sheets.webp",
+        img: "/new-images/Tile-Roof-Sheets/Precoated-tile-roof-sheets/1.webp",
       },
       {
         name: "Georoof Zinc aluminum tile roof sheets",
         href: "/products/tile-roof-sheets/georoof-zinc-aluminum-tile-roof-sheets",
-        img: "/product_page_images/Georoof-Zinc-aluminum-tile-roof-sheets.jpg",
+        img: "/new-images/Tile-Roof-Sheets/Georoof-Zinc-aluminum-tile-roof-sheets/1.webp",
       },
       {
         name: "UPVC tile roof sheets",
         href: "/products/tile-roof-sheets/upvc-tile-roof-sheetss",
-        img: "/product_page_images/UPVC-ile-roof-sheets.jpg",
+        img: "/new-images/Tile-Roof-Sheets/UPVC-tile-roof-sheets/1.jpg",
       },
       {
         name: "Kalon Stone coated Metal tile roof sheets",
         href: "/products/tile-roof-sheets/kalon-stone-coated-metal-tile-roof-sheets",
-        img: "/product_page_images/Kalon-Stone-coated-Metal-tile-roof-sheets.webp",
+        img: "/new-images/Tile-Roof-Sheets/Kalon-Stone-coated-Metal-tile-roof-sheets/1.jpg",
       },
       {
         name: "Oralium aluminum tile roof sheets",
         href: "/products/tile-roof-sheets/oralium-aluminum-tile-roof-sheets",
-        img: "/product_page_images/Oralium-aluminum-tile-roof-sheets.jpg",
+        img: "/new-images/Tile-Roof-Sheets/Oralium-aluminum-tile-roof-sheets/1.jpg",
       },
     ],
   },
