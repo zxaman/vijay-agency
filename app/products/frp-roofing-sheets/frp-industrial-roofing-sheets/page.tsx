@@ -11,8 +11,9 @@ export default function FRPIndustrialRoofingPage() {
 
   // Images for FRP Industrial Roofing Sheets
   const images = [
-    "/product_page_images/frp-industrial-roofing-sheets.webp",
-  
+    "/new-images/frp-Roofing-Sheets/frp-industrial-roofing-sheets/1.webp",
+    "/new-images/frp-Roofing-Sheets/frp-industrial-roofing-sheets/2.jpg",
+    "/new-images/frp-Roofing-Sheets/frp-industrial-roofing-sheets/3.jpg"
   ];
 
   return (

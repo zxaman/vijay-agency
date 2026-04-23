@@ -11,7 +11,9 @@ export default function FRPPrintedRoofingPage() {
 
   // Images for FRP Printed Roofing Sheets
   const images = [
-    "/product_page_images/FRP-printed-roofing-sheets.jpg",
+    "/new-images/frp-Roofing-Sheets/frp-printed-roofing-sheets/1.webp",
+    "/new-images/frp-Roofing-Sheets/frp-printed-roofing-sheets/2.png",
+    "/new-images/frp-Roofing-Sheets/frp-printed-roofing-sheets/3.jpg"
 
   ];
 

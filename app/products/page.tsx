@@ -157,17 +157,17 @@ const productCategories = [
       {
         name: "FRP printed roofing sheets",
         href: "/products/frp-roofing-sheets/frp-printed-roofing-sheets",
-        img: "/product_page_images/FRP-printed-roofing-sheets.jpg",
+        img: "/new-images/frp-Roofing-Sheets/frp-printed-roofing-sheets/1.webp",
       },
       {
         name: "FRP industrial roofing sheets",
         href: "/products/frp-roofing-sheets/frp-industrial-roofing-sheets",
-        img: "/product_page_images/frp-industrial-roofing-sheets.webp",
+        img: "/new-images/frp-Roofing-Sheets/frp-industrial-roofing-sheets/1.webp",
       },
       {
         name: "FRP decorative rolls",
         href: "/products/frp-roofing-sheets/frp-decorative-rolls",
-        img: "/product_page_images/FRP-decorative-rolls.jpg",
+        img: "/new-images/frp-Roofing-Sheets/frp-decorative-rolls/1.jpg",
       },
     ],
   },

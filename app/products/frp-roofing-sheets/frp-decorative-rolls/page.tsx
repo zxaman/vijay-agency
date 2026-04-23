@@ -11,7 +11,9 @@ export default function FRPDecorativeRollsPage() {
 
   // Images for FRP Decorative Rolls
   const images = [
-    "/product_page_images/FRP-decorative-rolls.jpg",
+    "/new-images/frp-Roofing-Sheets/frp-decorative-rolls/1.jpg",
+    "/new-images/frp-Roofing-Sheets/frp-decorative-rolls/2.webp",
+    "/new-images/frp-Roofing-Sheets/frp-decorative-rolls/3.jpg",
 
   ];
 
