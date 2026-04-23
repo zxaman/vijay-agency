@@ -81,7 +81,7 @@ const productCategories = [
     items: [
       { name: "Precoated tile roof sheets", href: "/products/tile-roof-sheets/precoated-tile-roof-sheets" },
       { name: "Georoof Zinc aluminum tile roof sheets", href: "/products/tile-roof-sheets/georoof-zinc-aluminum-tile-roof-sheets" },
-      { name: "UPVC tile roof sheets", href: "/products/tile-roof-sheets/upvc-tile-roof-sheetss" },
+      { name: "UPVC tile roof sheets", href: "/products/tile-roof-sheets/upvc-tile-roof-sheets" },
       { name: "Kalon Stone coated Metal tile roof sheets", href: "/products/tile-roof-sheets/kalon-stone-coated-metal-tile-roof-sheets" },
       { name: "Oralium aluminum tile roof sheets", href: "/products/tile-roof-sheets/oralium-aluminum-tile-roof-sheets" },
     ],
