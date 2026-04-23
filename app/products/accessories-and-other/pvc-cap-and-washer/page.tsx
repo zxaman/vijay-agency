@@ -11,8 +11,9 @@ export default function PVCCapAndWasherPage() {
 
   // Images for PVC Cap & Washer Sets
   const images = [
-    "/product_page_images/PVC-cap-washer.jpg",
-
+    "/new-images/Accessories-and-Other/PVC-cap-&-washer/1.jpg",
+    "/new-images/Accessories-and-Other/PVC-cap-&-washer/2.jpg",
+    "/new-images/Accessories-and-Other/PVC-cap-&-washer/3.webp"
   ];
 
   return (

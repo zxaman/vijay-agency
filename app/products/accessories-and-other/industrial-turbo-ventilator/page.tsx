@@ -11,8 +11,9 @@ export default function IndustrialTurboVentilatorPage() {
 
   // Images for Industrial Turbo Ventilator
   const images = [
-    "/product_page_images/Industrial-turbo-ventilator.webp",
-
+    "/new-images/Accessories-and-Other/Industrial-turbo-ventilator/1.jpeg",
+    "/new-images/Accessories-and-Other/Industrial-turbo-ventilator/2.webp", 
+    "/new-images/Accessories-and-Other/Industrial-turbo-ventilator/3.jpeg"
   ];
 
   return (

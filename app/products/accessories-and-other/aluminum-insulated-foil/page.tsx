@@ -11,7 +11,9 @@ export default function AluminumInsulatedFoilPage() {
 
   // Images for Aluminum Insulated Foil
   const images = [
-    "/product_page_images/Aluminum-insulated-foil.webp",
+    "/new-images/Accessories-and-Other/Aluminum-insulated-foil/1.jpg",
+    "/new-images/Accessories-and-Other/Aluminum-insulated-foil/2.webp",
+    "/new-images/Accessories-and-Other/Aluminum-insulated-foil/3.webp"
   ];
 
   return (

@@ -11,7 +11,9 @@ export default function SSWashersPage() {
 
   // Images for SS Washers
   const images = [
-    "/product_page_images/SS-washers.jpg",
+    "/new-images/Accessories-and-Other/SS-washers/1.jpg",
+    "/new-images/Accessories-and-Other/SS-washers/2.jpg",
+    "/new-images/Accessories-and-Other/SS-washers/3.jpg"
 
   ];
 

@@ -11,8 +11,9 @@ export default function PrimusScrewsPage() {
 
   // Images for Primus Self Tapping Screws
   const images = [
-    "/product_page_images/Primus-Self-tapping-screws.webp",
-
+    "/new-images/Accessories-and-Other/Primus-Self-tapping-screws/1.jpg",
+    "/new-images/Accessories-and-Other/Primus-Self-tapping-screws/2.png",
+    "/new-images/Accessories-and-Other/Primus-Self-tapping-screws/3.webp"
   ];
 
   return (

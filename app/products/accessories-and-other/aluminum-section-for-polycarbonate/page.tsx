@@ -11,8 +11,9 @@ export default function AluminumSectionsPage() {
 
   // Images for Aluminum Sections for Polycarbonate
   const images = [
-    "/product_page_images/Aluminum-section-for-polycarbonate.webp",
-  
+    "/new-images/Accessories-and-Other/Aluminum-section-for-polycarbonate/1.webp",
+    "/new-images/Accessories-and-Other/Aluminum-section-for-polycarbonate/2.jpg",
+    "/new-images/Accessories-and-Other/Aluminum-section-for-polycarbonate/3.jpg"
   ];
 
   return (

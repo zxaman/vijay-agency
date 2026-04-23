@@ -11,8 +11,9 @@ export default function KalonTapesPage() {
 
   // Images for Kalon Butyl & Bitumen Tapes
   const images = [
-    "/product_page_images/Kalon-butyl-bitumen-tapes.jpg",
-
+    "/new-images/Accessories-and-Other/Kalon-butyl-&-bitumen-tapes/1.png",
+    "/new-images/Accessories-and-Other/Kalon-butyl-&-bitumen-tapes/2.jpg",
+    "/new-images/Accessories-and-Other/Kalon-butyl-&-bitumen-tapes/3.jpg"
   ];
 
   return (

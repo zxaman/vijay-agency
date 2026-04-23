@@ -11,8 +11,9 @@ export default function FloorGuardRollsPage() {
 
   // Images for Floor Guard Rolls
   const images = [
-    "/product_page_images/Floor-guard-rolls.jpg",
-
+    "/new-images/Accessories-and-Other/Floor-guard-rolls/1.jpg",
+    "/new-images/Accessories-and-Other/Floor-guard-rolls/2.jpg",
+    "/new-images/Accessories-and-Other/Floor-guard-rolls/3.webp"
   ];
 
   return (
