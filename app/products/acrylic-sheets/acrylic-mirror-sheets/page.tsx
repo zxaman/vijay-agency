@@ -23,7 +23,7 @@ export default function AlabasterDecorativeSheetsPage() {
         <Link href="/">Home</Link> <span className={styles.crumbDivider}>/</span> 
         <Link href="/products">Products</Link> <span className={styles.crumbDivider}>/</span> 
         <Link href="/products?category=Acrylic+Sheets">Acrylic Sheets</Link> <span className={styles.crumbDivider}>/</span> 
-        <span className={styles.activeCrumb}>Alabaster Decorative Sheets</span>
+        <span className={styles.activeCrumb}>Acrylic mirror sheets</span>
       </div>
 
       <div className={styles.productGrid}>
@@ -56,7 +56,7 @@ export default function AlabasterDecorativeSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Alabaster Decorative Sheets</h1>
+          <h1 className={styles.productTitle}>Acrylic mirror sheets</h1>
           <p className={styles.productSubtitle}>Exquisite, lightweight faux-alabaster acrylic sheets designed for elegant lighting diffusers and sophisticated interior spaces.</p>
 
           <div className={styles.benefitsRow}>

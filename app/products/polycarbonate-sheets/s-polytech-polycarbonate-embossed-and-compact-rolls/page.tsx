@@ -12,9 +12,9 @@ export default function ProductPage() {
 
   // Placeholder images - replace with your actual public folder paths
   const images = [
-    "/new-images/s-polytech-polycarbonate-embossed-and-compact-rolls/1.webp",
-    "/new-images/s-polytech-polycarbonate-embossed-and-compact-rolls/2.webp",
-    "/new-images/s-polytech-polycarbonate-embossed-and-compact-rolls/3.webp",
+    "/new-images/s-polytech-korea-polycarbonate-multiwall-sheets/1.webp",
+    "/new-images/s-polytech-korea-polycarbonate-multiwall-sheets/2.webp",
+    "/new-images/s-polytech-korea-polycarbonate-multiwall-sheets/4.webp",
   ];
 
   return (
