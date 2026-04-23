@@ -11,8 +11,9 @@ export default function AlabasterOnyxAcrylicPage() {
 
   // Images for Alabaster Onyx Acrylic Sheets
   const images = [
-    "/product_page_images/Alabaster-onyx-Acrylic-sheets.jpg",
- 
+    "/new-images/Acrylic-Sheets/Alabaster-onyx-Acrylic-sheets/1.jpg",
+    "/new-images/Acrylic-Sheets/Alabaster-onyx-Acrylic-sheets/2.jpg",
+    "/new-images/Acrylic-Sheets/Alabaster-onyx-Acrylic-sheets/3.webp",
   ];
 
   return (

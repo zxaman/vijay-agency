@@ -11,7 +11,9 @@ export default function DecorativeAcrylicSheetsPage() {
 
   // Images for Decorative Acrylic Sheets
   const images = [
-    "/product_page_images/Decorative-Acrylic-sheets.jpg",
+    "/new-images/Acrylic-Sheets/Decorative-Acryli-sheets/1.jpg",
+    "/new-images/Acrylic-Sheets/Decorative-Acryli-sheets/2.webp",
+    "/new-images/Acrylic-Sheets/Decorative-Acryli-sheets/3.jpg"
 
   ];
 

@@ -11,7 +11,9 @@ export default function CastAcrylicSheetsPage() {
 
   // Images for Cast Acrylic Sheets
   const images = [
-    "/product_page_images/Cast-Acrylic-sheets.jpg",
+    "/new-images/Acrylic-Sheets/Cast-Acrylic-sheets/1.png",
+    "/new-images/Acrylic-Sheets/Cast-Acrylic-sheets/2.webp",
+    "/new-images/Acrylic-Sheets/Cast-Acrylic-sheets/3.jpg"
 
   ];
 

@@ -11,7 +11,9 @@ export default function FRPWrinkleSheetsPage() {
 
   // Images for FRP Wrinkle Decorative Sheets
   const images = [
-    "/product_page_images/frp-wrinkle-decorative-sheets.webp",
+    "/new-images/Acrylic-Sheets/FRP-wrinkle-decorative-sheets/1.webp",
+    "/new-images/Acrylic-Sheets/FRP-wrinkle-decorative-sheets/2.jpg",
+    "/new-images/Acrylic-Sheets/FRP-wrinkle-decorative-sheets/3.jpeg"
 
   ];
 

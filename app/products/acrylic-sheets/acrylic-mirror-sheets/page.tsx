@@ -11,10 +11,9 @@ export default function AlabasterDecorativeSheetsPage() {
 
   // Images for Alabaster Decorative Sheets
   const images = [
-    "/Acrylic-Sheets/Alabaster-Decorative-01.jpg",
-    "/Acrylic-Sheets/Alabaster-Decorative-02.jpg",
-    "/Acrylic-Sheets/Alabaster-Decorative-03.jpg",
-    "/Acrylic-Sheets/Alabaster-Decorative-04.jpg"
+    "/new-images/Acrylic-Sheets/Acrylic-mirror-sheets/1.jpg",
+    "/new-images/Acrylic-Sheets/Acrylic-mirror-sheets/2.jpg",
+    "/new-images/Acrylic-Sheets/Acrylic-mirror-sheets/3.jpg",
   ];
 
   return (

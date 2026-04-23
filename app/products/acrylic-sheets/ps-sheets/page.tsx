@@ -11,7 +11,9 @@ export default function PSSheetsPage() {
 
   // Images for PS Sheets
   const images = [
-    "/product_page_images/PS-sheets.png",
+    "/new-images/Acrylic-Sheets/PS-sheets/1.png",
+    "/new-images/Acrylic-Sheets/PS-sheets/2.png",
+    "/new-images/Acrylic-Sheets/PS-sheets/3.jpg"
 
   ];
 
