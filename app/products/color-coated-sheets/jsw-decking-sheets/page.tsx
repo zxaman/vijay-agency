@@ -11,8 +11,9 @@ export default function JSWDeckingSheetsPage() {
 
   // Images for JSW Decking Sheets
   const images = [
-    "/product_page_images/JSW-decking-sheets.jpg",
-
+    "/new-images/Color-Coated-Sheets/JSW-decking-sheets/1.jpg",
+    "/new-images/Color-Coated-Sheets/JSW-decking-sheets/2.jpeg",
+    "/new-images/Color-Coated-Sheets/JSW-decking-sheets/3.jpg"
   ];
 
   return (

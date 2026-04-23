@@ -11,7 +11,9 @@ export default function TataDurashineRoofingPage() {
 
   // Images for Tata Durashine Roofing Sheets
   const images = [
-    "/product_page_images/Tata-durashine-roofing-sheets.jpg",
+    "/new-images/Color-Coated-Sheets/Tata-durashine-roofing-sheets/1.jpg",
+    "/new-images/Color-Coated-Sheets/Tata-durashine-roofing-sheets/2.jpg",
+    "/new-images/Color-Coated-Sheets/Tata-durashine-roofing-sheets/3.jpg"
 
   ];
 

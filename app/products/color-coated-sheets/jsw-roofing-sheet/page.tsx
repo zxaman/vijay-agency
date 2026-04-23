@@ -11,8 +11,9 @@ export default function JSWRoofingSheetsPage() {
 
   // Images for JSW Roofing Sheets
   const images = [
-    "/product_page_images/JSW-roofing-sheet.webp",
-
+    "/new-images/Color-Coated-Sheets/JSW-roofing-sheet/1.jpeg",
+    "/new-images/Color-Coated-Sheets/JSW-roofing-sheet/2.jpg",
+    "/new-images/Color-Coated-Sheets/JSW-roofing-sheet/3.webp"
   ];
 
   return (

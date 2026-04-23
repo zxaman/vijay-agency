@@ -11,7 +11,9 @@ export default function TataCoolShieldPage() {
 
   // Images for Tata Durashine CoolShield
   const images = [
-    "/product_page_images/tata-cool-shield-roofing-sheets.png",
+    "/new-images/Color-Coated-Sheets/Tata-cool-shield-roofing-sheets/1.jpg",
+    "/new-images/Color-Coated-Sheets/Tata-cool-shield-roofing-sheets/2.webp",
+    "/new-images/Color-Coated-Sheets/Tata-cool-shield-roofing-sheets/3.webp"
 
   ];
 

@@ -11,7 +11,9 @@ export default function JSWPUFInsulatedPage() {
 
   // Images for JSW Color Coated PUF Insulated Sheets
   const images = [
-    "/product_page_images/JSW-color-coated-puff-insulated-roofing-sheets.webp",
+    "/new-images/Color-Coated-Sheets/JSW-color-coated-puff-insulated-roofing-sheets/1.webp",
+    "/new-images/Color-Coated-Sheets/JSW-color-coated-puff-insulated-roofing-sheets/2.webp",
+    "/new-images/Color-Coated-Sheets/JSW-color-coated-puff-insulated-roofing-sheets/3.jpg"
 
   ];
 

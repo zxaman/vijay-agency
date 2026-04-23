@@ -11,7 +11,9 @@ export default function EssarRoofingSheetsPage() {
 
   // Images for Essar Roofing Sheets
   const images = [
-    "/product_page_images/Essar-roofing-sheets.webp",
+    "/new-images/Color-Coated-Sheets/Essar-roofing-sheets/1.jpg",
+    "/new-images/Color-Coated-Sheets/Essar-roofing-sheets/2.jpg",
+    "/new-images/Color-Coated-Sheets/Essar-roofing-sheets/3.jpg"
 
   ];
 

@@ -11,7 +11,9 @@ export default function AMNSPrecoatedRoofingPage() {
 
   // Images for AMNS Precoated Roofing Sheets
   const images = [
-    "/product_page_images/AMNS-precoated-roofing-sheets.jpg",
+    "/new-images/Color-Coated-Sheets/AMNS-precoated-roofing-sheets/1.jpg",
+    "/new-images/Color-Coated-Sheets/AMNS-precoated-roofing-sheets/2.webp",
+    "/new-images/Color-Coated-Sheets/AMNS-precoated-roofing-sheets/3.jpg"
 
   ];
 
