@@ -58,7 +58,7 @@ export default function AlabasterDecorativeSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>ALABASTER DECORATIVE SHEETS</h1>
+          <h1 className={styles.productTitle}>ACRYLIC MIRROR SHEETS</h1>
           <p className={styles.productSubtitle}>Exquisite, lightweight faux-alabaster acrylic sheets designed for elegant lighting diffusers and sophisticated interior spaces.</p>
 
           <div className={styles.benefitsRow}>
@@ -116,7 +116,7 @@ export default function AlabasterDecorativeSheetsPage() {
           {activeTab === "description" && (
             <div className={styles.animateFadeIn}>
               <h3 className={styles.tabContentHeading}>The Warmth of Natural Stone, Perfected</h3>
-              <p>Alabaster Decorative Sheets capture the soft, milky, and gently clouded appearance of natural alabaster stone. These premium acrylic sheets are specifically formulated to diffuse light beautifully, eliminating harsh LED hot-spots and creating a warm, inviting glow that elevates any interior environment.</p>
+              <p>Acrylic mirror sheets capture the soft, milky, and gently clouded appearance of natural alabaster stone. These premium acrylic sheets are specifically formulated to diffuse light beautifully, eliminating harsh LED hot-spots and creating a warm, inviting glow that elevates any interior environment.</p>
               <br/>
               <p>Unlike real alabaster, which is fragile, incredibly heavy, and extremely difficult to work with, our faux-alabaster acrylic provides immense design freedom. It is highly shatter-resistant, weighs a fraction of natural stone, and can be easily thermoformed into curved lighting diffusers, seamless columns, or routed for custom architectural installations. It is the perfect blend of classical aesthetics and modern material engineering.</p>
             </div>

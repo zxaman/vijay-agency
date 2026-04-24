@@ -44,7 +44,7 @@ const productCategories = [
       { name: "PS sheets", href: "/products/acrylic-sheets/ps-sheets" },
       { name: "Decorative Acrylic sheets", href: "/products/acrylic-sheets/decorative-acrylic-sheets" },
       { name: "Alabaster onyx Acrylic sheets", href: "/products/acrylic-sheets/alabaster-onyx-acrylic-sheets" },
-      { name: "Alabaster decorative sheets", href: "/products/acrylic-sheets/alabaster-decorative-sheets" },
+      { name: "Acrylic mirror sheets", href: "/products/acrylic-sheets/alabaster-decorative-sheets" },
       { name: "Acrylic mirror sheets", href: "/products/acrylic-sheets/acrylic-mirror-sheets" },
       { name: "FRP wrinkle decorative sheets", href: "/products/acrylic-sheets/frp-wrinkle-decorative-sheets" },
     ],

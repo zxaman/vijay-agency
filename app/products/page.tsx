@@ -134,7 +134,7 @@ const productCategories = [
         img: "/new-images/Acrylic-Sheets/Alabaster-onyx-Acrylic-sheets/1.jpg",
       },
       {
-        name: "Alabaster decorative sheets",
+        name: "Acrylic mirror sheets",
         href: "/products/acrylic-sheets/alabaster-decorative-sheets",
         img: "/new-images/Acrylic-Sheets/Alabaster-decorative-sheets/1.webp",
       },
