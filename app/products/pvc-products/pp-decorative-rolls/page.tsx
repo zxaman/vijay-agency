@@ -56,7 +56,7 @@ export default function PPDecorativeRollsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>PP Decorative Rolls</h1>
+          <h1 className={styles.productTitle}>PP DECORATIVE ROLLS</h1>
           <p className={styles.productSubtitle}>Eco-friendly Polypropylene (PP) rolls offering superior flexibility, moisture resistance, and high-end decorative finishes.</p>
 
           <div className={styles.benefitsRow}>

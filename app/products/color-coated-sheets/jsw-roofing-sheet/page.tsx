@@ -56,7 +56,7 @@ export default function JSWRoofingSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>JSW Roofing Sheets</h1>
+          <h1 className={styles.productTitle}>JSW ROOFING SHEETS</h1>
           <p className={styles.productSubtitle}>India's most trusted color-coated steel roofing, featuring advanced Galvalume® technology and high-gloss paint for unmatched longevity and style.</p>
 
           <div className={styles.benefitsRow}>

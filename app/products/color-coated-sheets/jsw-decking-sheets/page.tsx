@@ -56,7 +56,7 @@ export default function JSWDeckingSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>JSW Decking Sheets</h1>
+          <h1 className={styles.productTitle}>JSW DECKING SHEETS</h1>
           <p className={styles.productSubtitle}>High-tensile, galvanized composite floor decking from JSW Steel, designed for rapid construction and superior structural load distribution.</p>
 
           <div className={styles.benefitsRow}>

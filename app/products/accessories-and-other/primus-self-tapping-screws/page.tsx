@@ -56,7 +56,7 @@ export default function PrimusScrewsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Primus Self-Drilling & Tapping Screws</h1>
+          <h1 className={styles.productTitle}>PRIMUS SELF-DRILLING & TAPPING SCREWS</h1>
           <p className={styles.productSubtitle}>Premium grade, high-tensile fasteners featuring advanced anti-corrosion coatings for secure, leak-proof roofing and cladding installations.</p>
 
           <div className={styles.benefitsRow}>

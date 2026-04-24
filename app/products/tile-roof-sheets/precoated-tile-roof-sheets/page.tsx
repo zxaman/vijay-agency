@@ -57,7 +57,7 @@ export default function PrecoatedTileRoofSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Precoated Tile Roof Sheets</h1>
+          <h1 className={styles.productTitle}>PRECOATED TILE ROOF SHEETS</h1>
           <p className={styles.productSubtitle}>Premium color-coated steel roofing sheets designed with a traditional Spanish tile profile for aesthetic elegance and modern durability.</p>
 
           <div className={styles.benefitsRow}>

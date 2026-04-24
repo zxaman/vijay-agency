@@ -57,7 +57,7 @@ export default function PVCGutterSystemPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>PVC Gutter System</h1>
+          <h1 className={styles.productTitle}>PVC GUTTER SYSTEM</h1>
           <p className={styles.productSubtitle}>High-quality, maintenance-free uPVC rainwater drainage systems designed for efficient water management.</p>
 
           <div className={styles.benefitsRow}>

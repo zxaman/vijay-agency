@@ -58,7 +58,7 @@ export default function AlabasterDecorativeSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Alabaster Decorative Sheets</h1>
+          <h1 className={styles.productTitle}>ALABASTER DECORATIVE SHEETS</h1>
           <p className={styles.productSubtitle}>Exquisite, lightweight faux-alabaster acrylic sheets designed for elegant lighting diffusers and sophisticated interior spaces.</p>
 
           <div className={styles.benefitsRow}>

@@ -57,7 +57,7 @@ export default function GeoroofZincAluminumTilePage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Georoof Zinc Aluminum Tile Roof Sheets</h1>
+          <h1 className={styles.productTitle}>GEOROOF ZINC ALUMINUM TILE ROOF SHEETS</h1>
           <p className={styles.productSubtitle}>Premium Galvalume roofing sheets featuring a classic step-tile profile, delivering exceptional architectural beauty and unmatched corrosion resistance.</p>
 
           <div className={styles.benefitsRow}>

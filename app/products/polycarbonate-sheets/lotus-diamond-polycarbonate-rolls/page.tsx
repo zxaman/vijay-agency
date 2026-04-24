@@ -56,7 +56,7 @@ export default function LotusDiamondPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Lotus Diamond Polycarbonate Rolls</h1>
+          <h1 className={styles.productTitle}>LOTUS DIAMOND POLYCARBONATE ROLLS</h1>
           <p className={styles.productSubtitle}>Elegant diamond-embossed continuous polycarbonate rolls for superior light diffusion and aesthetic appeal.</p>
 
           <div className={styles.benefitsRow}>

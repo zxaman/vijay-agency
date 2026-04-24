@@ -57,7 +57,7 @@ export default function CastAcrylicSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Cast Acrylic Sheets</h1>
+          <h1 className={styles.productTitle}>CAST ACRYLIC SHEETS</h1>
           <p className={styles.productSubtitle}>Premium optical-grade cast acrylic sheets offering superior clarity, weatherability, and flawless fabrication.</p>
 
           <div className={styles.benefitsRow}>

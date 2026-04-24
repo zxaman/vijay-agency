@@ -56,7 +56,7 @@ export default function LotusRollsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Lotus Polycarbonate Embossed & Compact Rolls</h1>
+          <h1 className={styles.productTitle}>LOTUS POLYCARBONATE EMBOSSED & COMPACT ROLLS</h1>
           <p className={styles.productSubtitle}>High-quality continuous polycarbonate rolls available in plain and textured finishes for versatile roofing and glazing applications.</p>
 
           <div className={styles.benefitsRow}>

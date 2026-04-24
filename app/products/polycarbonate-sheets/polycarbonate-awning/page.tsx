@@ -56,7 +56,7 @@ export default function PolycarbonateAwningPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Polycarbonate Awning</h1>
+          <h1 className={styles.productTitle}>POLYCARBONATE AWNING</h1>
           <p className={styles.productSubtitle}>Premium, weather-resistant polycarbonate awnings for elegant and durable outdoor protection.</p>
 
           <div className={styles.benefitsRow}>

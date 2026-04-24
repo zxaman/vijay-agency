@@ -56,7 +56,7 @@ export default function ParePVCPanelPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Pare PVC Panels</h1>
+          <h1 className={styles.productTitle}>PARE PVC PANELS</h1>
           <p className={styles.productSubtitle}>High-quality, stylish PVC panels for modern interiors, offering exceptional durability and moisture resistance.</p>
 
           <div className={styles.benefitsRow}>

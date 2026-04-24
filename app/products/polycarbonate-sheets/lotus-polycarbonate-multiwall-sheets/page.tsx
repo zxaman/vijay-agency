@@ -56,7 +56,7 @@ export default function SPolytechMultiwallPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>S Polytech (Korea) Polycarbonate Multiwall Sheets</h1>
+          <h1 className={styles.productTitle}>S POLYTECH (KOREA) POLYCARBONATE MULTIWALL SHEETS</h1>
           <p className={styles.productSubtitle}>Lightweight, high-impact cellular polycarbonate sheets delivering exceptional thermal insulation and diffused daylighting.</p>
 
           <div className={styles.benefitsRow}>

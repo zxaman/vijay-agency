@@ -57,7 +57,7 @@ export default function PVCDecorativeTilesPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>PVC Decorative Roof Tiles</h1>
+          <h1 className={styles.productTitle}>PVC DECORATIVE ROOF TILES</h1>
           <p className={styles.productSubtitle}>Lightweight, durable, and highly aesthetic polymer tiles that replicate traditional roofing without the heavy maintenance.</p>
 
           <div className={styles.benefitsRow}>

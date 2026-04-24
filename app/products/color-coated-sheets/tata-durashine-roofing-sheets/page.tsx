@@ -57,7 +57,7 @@ export default function TataDurashineRoofingPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Tata Durashine Roofing Sheets</h1>
+          <h1 className={styles.productTitle}>TATA DURASHINE ROOFING SHEETS</h1>
           <p className={styles.productSubtitle}>Premium color-coated Galvalume steel roofing from India's most trusted brand, offering unmatched durability, leak-proof performance, and vibrant aesthetics.</p>
 
           <div className={styles.benefitsRow}>

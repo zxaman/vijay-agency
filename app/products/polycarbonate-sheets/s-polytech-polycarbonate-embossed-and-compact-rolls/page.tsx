@@ -57,7 +57,7 @@ export default function ProductPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>S Polytech Polycarbonate Rolls</h1>
+          <h1 className={styles.productTitle}>S POLYTECH POLYCARBONATE ROLLS</h1>
           <p className={styles.productSubtitle}>Premium high-quality compact and embossed continuous rolls.</p>
 
           <div className={styles.benefitsRow}>

@@ -57,7 +57,7 @@ export default function AMNSPrecoatedRoofingPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>AMNS Precoated Roofing Sheets</h1>
+          <h1 className={styles.productTitle}>AMNS PRECOATED ROOFING SHEETS</h1>
           <p className={styles.productSubtitle}>High-performance, premium color-coated steel roofing sheets from ArcelorMittal Nippon Steel, engineered for heavy-duty infrastructure and extreme weather resistance.</p>
 
           <div className={styles.benefitsRow}>

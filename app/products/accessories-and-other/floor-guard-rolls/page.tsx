@@ -56,7 +56,7 @@ export default function FloorGuardRollsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Floor Guard Rolls</h1>
+          <h1 className={styles.productTitle}>FLOOR GUARD ROLLS</h1>
           <p className={styles.productSubtitle}>Heavy-duty, reusable surface protection rolls designed to safeguard expensive tiles, marble, and hardwood during construction and renovations.</p>
 
           <div className={styles.benefitsRow}>

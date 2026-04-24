@@ -11,8 +11,8 @@ export default function LotusFrostedSheetsPage() {
 
   // Images for Lotus Frosted Sheets
   const images = [
-    "/new-images/Lotus-Polycarbonate-frosted-sheets/1.webp",
-    "/new-images/Lotus-Polycarbonate-frosted-sheets/2.webp",
+    "/new-images/Lotus-polycarbonate-frosted-sheets/1.webp",
+    "/new-images/Lotus-polycarbonate-frosted-sheets/2.webp",
   ];
 
   return (
@@ -55,7 +55,7 @@ export default function LotusFrostedSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Lotus Polycarbonate Frosted Sheets</h1>
+          <h1 className={styles.productTitle}>LOTUS POLYCARBONATE FROSTED SHEETS</h1>
           <p className={styles.productSubtitle}>Elegant frosted polycarbonate sheets providing excellent privacy and soft, diffused natural lighting.</p>
 
           <div className={styles.benefitsRow}>

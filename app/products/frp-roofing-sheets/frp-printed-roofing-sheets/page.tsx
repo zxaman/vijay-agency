@@ -57,7 +57,7 @@ export default function FRPPrintedRoofingPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>FRP Printed Roofing Sheets</h1>
+          <h1 className={styles.productTitle}>FRP PRINTED ROOFING SHEETS</h1>
           <p className={styles.productSubtitle}>Durable, light-transmitting fiberglass roofing sheets featuring attractive printed designs for decorative outdoor shading.</p>
 
           <div className={styles.benefitsRow}>

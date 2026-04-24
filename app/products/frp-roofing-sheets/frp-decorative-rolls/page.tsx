@@ -57,7 +57,7 @@ export default function FRPDecorativeRollsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>FRP Decorative Rolls</h1>
+          <h1 className={styles.productTitle}>FRP DECORATIVE ROLLS</h1>
           <p className={styles.productSubtitle}>Seamless, highly durable fiberglass reinforced decorative rolls for beautiful, leak-proof outdoor shading and partitions.</p>
 
           <div className={styles.benefitsRow}>

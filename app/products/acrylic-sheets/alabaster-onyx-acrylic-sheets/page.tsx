@@ -56,7 +56,7 @@ export default function AlabasterOnyxAcrylicPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Alabaster Onyx Acrylic Sheets</h1>
+          <h1 className={styles.productTitle}>ALABASTER ONYX ACRYLIC SHEETS</h1>
           <p className={styles.productSubtitle}>Luxurious, translucent acrylic sheets that perfectly replicate the breathtaking beauty of natural alabaster and onyx stone.</p>
 
           <div className={styles.benefitsRow}>

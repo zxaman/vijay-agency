@@ -56,7 +56,7 @@ export default function AluminumInsulatedFoilPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Aluminum Insulated Foil</h1>
+          <h1 className={styles.productTitle}>ALUMINUM INSULATED FOIL</h1>
           <p className={styles.productSubtitle}>High-performance reflective thermal insulation designed to block radiant heat, prevent condensation, and drastically reduce energy costs.</p>
 
           <div className={styles.benefitsRow}>

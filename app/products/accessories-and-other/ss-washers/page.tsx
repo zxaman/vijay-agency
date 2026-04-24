@@ -57,7 +57,7 @@ export default function SSWashersPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>SS EPDM Bonded Washers</h1>
+          <h1 className={styles.productTitle}>SS EPDM BONDED WASHERS</h1>
           <p className={styles.productSubtitle}>Premium stainless steel washers vulcanized with heavy-duty EPDM rubber for the ultimate rust-proof and watertight fastening seal.</p>
 
           <div className={styles.benefitsRow}>

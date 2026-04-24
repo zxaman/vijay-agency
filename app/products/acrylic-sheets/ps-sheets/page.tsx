@@ -57,7 +57,7 @@ export default function PSSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>PS (Polystyrene) Sheets</h1>
+          <h1 className={styles.productTitle}>PS (POLYSTYRENE) SHEETS</h1>
           <p className={styles.productSubtitle}>Economical, lightweight, and versatile transparent sheets ideal for indoor glazing, displays, and decorative framing.</p>
 
           <div className={styles.benefitsRow}>

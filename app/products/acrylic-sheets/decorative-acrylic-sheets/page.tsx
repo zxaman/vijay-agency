@@ -57,7 +57,7 @@ export default function DecorativeAcrylicSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Decorative Acrylic Sheets</h1>
+          <h1 className={styles.productTitle}>DECORATIVE ACRYLIC SHEETS</h1>
           <p className={styles.productSubtitle}>Stunning, premium acrylic sheets featuring unique patterns, textures, and embedded designs for high-end aesthetic applications.</p>
 
           <div className={styles.benefitsRow}>

@@ -57,7 +57,7 @@ export default function OraliumAluminumTilePage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Oralium Aluminum Tile Roof Sheets</h1>
+          <h1 className={styles.productTitle}>ORALIUM ALUMINUM TILE ROOF SHEETS</h1>
           <p className={styles.productSubtitle}>Premium architectural aluminum roofing featuring a classic tile profile, offering lifetime rust immunity and exceptional coastal weather resistance.</p>
 
           <div className={styles.benefitsRow}>

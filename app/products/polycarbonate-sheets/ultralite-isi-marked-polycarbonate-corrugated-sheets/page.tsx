@@ -56,7 +56,7 @@ export default function UltraliteCorrugatedPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Ultralite ISI Marked Polycarbonate Corrugated Sheets</h1>
+          <h1 className={styles.productTitle}>ULTRALITE ISI MARKED POLYCARBONATE CORRUGATED SHEETS</h1>
           <p className={styles.productSubtitle}>Certified high-strength corrugated polycarbonate sheets designed for industrial and residential natural lighting.</p>
 
           <div className={styles.benefitsRow}>

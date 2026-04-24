@@ -56,7 +56,7 @@ export default function PVCCapAndWasherPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>PVC Cap & Washer Sets</h1>
+          <h1 className={styles.productTitle}>PVC CAP & WASHER SETS</h1>
           <p className={styles.productSubtitle}>UV-stabilized, weather-resistant mounting hardware designed to provide a 100% watertight seal and prevent cracking on plastic roofing sheets.</p>
 
           <div className={styles.benefitsRow}>

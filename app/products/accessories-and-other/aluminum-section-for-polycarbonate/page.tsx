@@ -56,7 +56,7 @@ export default function AluminumSectionsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Aluminum Sections for Polycarbonate</h1>
+          <h1 className={styles.productTitle}>ALUMINUM SECTIONS FOR POLYCARBONATE</h1>
           <p className={styles.productSubtitle}>Precision-extruded structural aluminum profiles designed to securely join, edge, and seal polycarbonate roofing sheets.</p>
 
           <div className={styles.benefitsRow}>

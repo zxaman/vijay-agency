@@ -56,7 +56,7 @@ export default function FRPIndustrialRoofingPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>FRP Industrial Roofing Sheets</h1>
+          <h1 className={styles.productTitle}>FRP INDUSTRIAL ROOFING SHEETS</h1>
           <p className={styles.productSubtitle}>Heavy-duty, anti-corrosive fiberglass reinforced sheets designed for extreme industrial environments and natural daylighting.</p>
 
           <div className={styles.benefitsRow}>

@@ -57,7 +57,7 @@ export default function JSWPUFInsulatedPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>JSW Color Coated PUF Insulated Sheets</h1>
+          <h1 className={styles.productTitle}>JSW COLOR COATED PUF INSULATED SHEETS</h1>
           <p className={styles.productSubtitle}>High-performance sandwich panels featuring a high-density Polyurethane Foam (PUF) core and JSW Colouron+ steel skins for ultimate thermal and acoustic comfort.</p>
 
           <div className={styles.benefitsRow}>

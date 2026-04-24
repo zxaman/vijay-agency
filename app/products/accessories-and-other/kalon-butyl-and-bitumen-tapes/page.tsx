@@ -56,7 +56,7 @@ export default function KalonTapesPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Kalon Butyl & Bitumen Tapes</h1>
+          <h1 className={styles.productTitle}>KALON BUTYL & BITUMEN TAPES</h1>
           <p className={styles.productSubtitle}>High-performance self-adhesive sealing tapes designed for instant, watertight repairs and permanent flashing applications.</p>
 
           <div className={styles.benefitsRow}>

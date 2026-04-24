@@ -57,7 +57,7 @@ export default function KalonStoneCoatedRoofPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Kalon Stone Coated Metal Roof Tiles</h1>
+          <h1 className={styles.productTitle}>KALON STONE COATED METAL ROOF TILES</h1>
           <p className={styles.productSubtitle}>Luxury architectural roofing that combines the timeless beauty of natural stone and clay with the hurricane-grade strength of Galvalume steel.</p>
 
           <div className={styles.benefitsRow}>

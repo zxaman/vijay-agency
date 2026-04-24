@@ -57,7 +57,7 @@ export default function FRPWrinkleSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>FRP Wrinkle Decorative Sheets</h1>
+          <h1 className={styles.productTitle}>FRP WRINKLE DECORATIVE SHEETS</h1>
           <p className={styles.productSubtitle}>Highly durable fiberglass-reinforced panels featuring a unique wrinkle-textured finish for decorative and heavy-duty protective applications.</p>
 
           <div className={styles.benefitsRow}>

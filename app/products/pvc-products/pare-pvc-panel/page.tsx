@@ -59,7 +59,7 @@ export default function ParePVCPanelPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Pare Premium PVC Panels</h1>
+          <h1 className={styles.productTitle}>PARE PREMIUM PVC PANELS</h1>
           <p className={styles.productSubtitle}>
             Architectural-grade PVC wall cladding and ceiling panels designed to deliver the luxury of natural wood and marble without the high maintenance.
           </p>

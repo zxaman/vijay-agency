@@ -56,7 +56,7 @@ export default function DanpalStandingSeamPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Danpal Polycarbonate Standing Seam</h1>
+          <h1 className={styles.productTitle}>DANPAL POLYCARBONATE STANDING SEAM</h1>
           <p className={styles.productSubtitle}>Premium architectural daylighting system featuring 100% leakproof standing seam connections and superior thermal insulation.</p>
 
           <div className={styles.benefitsRow}>

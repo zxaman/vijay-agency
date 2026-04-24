@@ -57,7 +57,7 @@ export default function UPVCTileRoofSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>UPVC Tile Roof Sheets</h1>
+          <h1 className={styles.productTitle}>UPVC TILE ROOF SHEETS</h1>
           <p className={styles.productSubtitle}>High-performance, multi-layered UPVC roofing sheets featuring a traditional step-tile profile for superior thermal insulation and classic aesthetics.</p>
 
           <div className={styles.benefitsRow}>

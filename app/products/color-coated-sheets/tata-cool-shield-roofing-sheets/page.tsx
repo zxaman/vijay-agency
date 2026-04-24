@@ -57,7 +57,7 @@ export default function TataCoolShieldPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Tata Durashine CoolShield</h1>
+          <h1 className={styles.productTitle}>TATA DURASHINE COOLSHIELD</h1>
           <p className={styles.productSubtitle}>Advanced 3-layered insulated roofing solution designed to reduce heat penetration by up to 10°C while providing superior acoustic insulation.</p>
 
           <div className={styles.benefitsRow}>

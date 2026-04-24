@@ -56,7 +56,7 @@ export default function IndustrialTurboVentilatorPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Industrial Turbo Ventilators</h1>
+          <h1 className={styles.productTitle}>INDUSTRIAL TURBO VENTILATORS</h1>
           <p className={styles.productSubtitle}>Wind-driven, zero-power roof exhaust ventilators for efficient heat, smoke, and moisture extraction in large-scale facilities.</p>
 
           <div className={styles.benefitsRow}>

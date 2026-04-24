@@ -57,7 +57,7 @@ export default function EssarRoofingSheetsPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Essar Roofing Sheets</h1>
+          <h1 className={styles.productTitle}>ESSAR ROOFING SHEETS</h1>
           <p className={styles.productSubtitle}>High-quality steel roofing solutions from Essar Steel, engineered for maximum durability, structural rigidity, and long-term weather protection.</p>
 
           <div className={styles.benefitsRow}>

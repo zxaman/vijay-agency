@@ -56,7 +56,7 @@ export default function LotusPVCGrecaPage() {
 
         {/* RIGHT: Product Information & Configuration */}
         <div className={styles.infoSection}>
-          <h1 className={styles.productTitle}>Lotus PVC Greca Roofing Sheets</h1>
+          <h1 className={styles.productTitle}>LOTUS PVC GRECA ROOFING SHEETS</h1>
           <p className={styles.productSubtitle}>High-performance trapezoidal profile uPVC sheets designed for superior strength and efficient water drainage.</p>
 
           <div className={styles.benefitsRow}>
